@@ -1,0 +1,15 @@
+certifi            
+charset-normalizer 
+decorator          
+idna               
+imageio            
+imageio-ffmpeg     
+moviepy            
+numpy              
+Pillow             
+pip                
+proglog            
+requests           
+setuptools         
+tqdm               
+urllib3            
